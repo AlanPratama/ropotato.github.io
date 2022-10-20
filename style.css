@@ -21,11 +21,10 @@ nav{
 }
 nav h3{
     color: #fca210;
-    font-size: 29px;
+    font-size: 24px;
     font-weight: 700;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-right: 200px;
-    margin-left: 100px;
+    margin-right: 50px;
 }
 nav ul{
     display: flex;
